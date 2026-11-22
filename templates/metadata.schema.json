@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Etymology content package metadata",
+  "type": "object",
+  "required": ["slug", "date", "topic", "language", "titles", "kdp", "youtube", "social", "keywords", "sources"],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "topic": { "type": "string" },
+    "language": { "const": "en+zh-Hant" },
+    "core_message": {
+      "type": "object",
+      "required": ["en", "zh"],
+      "properties": { "en": { "type": "string" }, "zh": { "type": "string" } }
+    },
+    "titles": {
+      "type": "object",
+      "required": ["en", "zh"],
+      "properties": { "en": { "type": "string" }, "zh": { "type": "string" } }
+    },
+    "kdp": {
+      "type": "object",
+      "required": ["title", "subtitle", "keywords"],
+      "properties": {
+        "title": { "type": "string" },
+        "subtitle": { "type": "string" },
+        "keywords": { "type": "array", "maxItems": 7, "items": { "type": "string", "maxLength": 50 } },
+        "categories_suggested": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "youtube": {
+      "type": "object",
+      "required": ["title", "tags", "chapters"],
+      "properties": {
+        "title": { "type": "string", "maxLength": 100 },
+        "thumbnail_text": { "type": "string" },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "chapters": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["time", "label"],
+            "properties": { "time": { "type": "string" }, "label": { "type": "string" } }
+          }
+        }
+      }
+    },
+    "social": {
+      "type": "object",
+      "required": ["instagram_hashtags", "threads_tag"],
+      "properties": {
+        "instagram_hashtags": { "type": "array", "maxItems": 5, "items": { "type": "string", "pattern": "^#" } },
+        "threads_tag": { "type": "string" }
+      }
+    },
+    "keywords": {
+      "type": "object",
+      "required": ["en", "zh"],
+      "properties": {
+        "en": { "type": "array", "items": { "type": "string" } },
+        "zh": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "sources": { "type": "array", "items": { "type": "string", "format": "uri" } }
+  }
+}

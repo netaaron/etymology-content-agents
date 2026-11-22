@@ -1,0 +1,82 @@
+{
+  "slug": "metaphor",
+  "date": "2026-11-22",
+  "topic": "The etymology of metaphor and the *bher- (-fer/-pher) word family",
+  "language": "en+zh-Hant",
+  "core_message": {
+    "en": "A metaphor is a moving truck for meaning: it carries a word from one place to another. See that, and a whole family of English words opens up.",
+    "zh": "Metaphor 是一輛搬運意義的車：把一個字從原本的位置搬到新的位置。看懂這一點，一整串英文字跟著解鎖。"
+  },
+  "titles": {
+    "en": "The Word That Moves: Metaphor and the -fer/-pher Family",
+    "zh": "會搬家的字：metaphor 與 -fer／-pher 字族"
+  },
+  "kdp": {
+    "title": "The Word That Moves",
+    "subtitle": "Metaphor and the -fer/-pher Family: A Bilingual English–Chinese Etymology Lesson",
+    "keywords": [
+      "greek and latin roots vocabulary",
+      "word origins for english learners",
+      "esl vocabulary for chinese speakers",
+      "figurative language simile",
+      "英文詞源 字根字首",
+      "中英對照 英文學習",
+      "vocabulary builder for adults"
+    ],
+    "categories_suggested": [
+      "Foreign Language Study & Reference > English as a Second Language",
+      "Language Arts & Disciplines > Linguistics > Etymology"
+    ]
+  },
+  "youtube": {
+    "title": "Why Greek Moving Companies Are \"Metaphoric\" | metaphor 詞源中英講解",
+    "thumbnail_text": "CARRY ACROSS",
+    "tags": [
+      "metaphor",
+      "metaphor etymology",
+      "etymology",
+      "word origins",
+      "Greek roots",
+      "Latin roots",
+      "English vocabulary",
+      "learn English",
+      "simile vs metaphor",
+      "translate etymology",
+      "conceptual metaphor",
+      "bilingual English Chinese",
+      "英文詞源",
+      "英文單字",
+      "字根字首",
+      "隱喻",
+      "英文學習"
+    ],
+    "chapters": [
+      { "time": "0:00", "label": "Greece's \"metaphoric\" moving companies｜希臘的隱喻公司" },
+      { "time": "0:16", "label": "Taking the word apart｜把字拆開" },
+      { "time": "1:03", "label": "The Latin twin: translate｜拉丁雙胞胎" },
+      { "time": "1:47", "label": "One root, three roads｜一個詞根，三條路" },
+      { "time": "2:46", "label": "The lion test: simile vs metaphor｜獅子測驗" },
+      { "time": "3:31", "label": "From the battlefield to everyday speech｜從戰場到日常" },
+      { "time": "4:31", "label": "Your challenge｜留言挑戰" }
+    ]
+  },
+  "social": {
+    "instagram_hashtags": ["#etymology", "#英文詞源", "#EnglishVocabulary", "#字根字首", "#learnEnglish"],
+    "threads_tag": "#英文詞源"
+  },
+  "keywords": {
+    "en": ["metaphor", "etymology", "Greek roots", "Latin roots", "word family", "simile vs metaphor", "conceptual metaphor", "translate"],
+    "zh": ["英文詞源", "字根字首", "隱喻", "明喻", "概念隱喻", "英文單字", "中英對照", "翻譯"]
+  },
+  "sources": [
+    "https://www.etymonline.com/word/metaphor",
+    "https://www.etymonline.com/word/*bher-",
+    "https://www.etymonline.com/word/translate",
+    "https://www.etymonline.com/word/ferry",
+    "https://fgh.perseids.org/read/latinLit/phi1002/phi001/perseus-eng2/8.6.1-8.6.8",
+    "https://www.ellopos.net/Elpenor/greek-texts/ancient-greece/aristotle/poetics.asp?pg=32",
+    "https://gutenberg.org/files/6763/6763-h/6763-h.htm",
+    "https://jann.wordreference.com/engr/mover",
+    "https://en.wikipedia.org/wiki/Metaphors_We_Live_By"
+  ]
+}
