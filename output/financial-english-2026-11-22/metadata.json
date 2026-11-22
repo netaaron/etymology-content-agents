@@ -1,0 +1,88 @@
+{
+  "slug": "financial-english",
+  "date": "2026-11-22",
+  "topic": "The etymology of financial English: fee, capital, money, bank, credit, debt, mortgage, finance, salary",
+  "language": "en+zh-Hant",
+  "core_message": {
+    "en": "Put financial English in historical order and it tells the story of money itself: from cattle you could count, to a bench you could sit at, to a promise you have to believe.",
+    "zh": "把金融英文按歷史排好，它就是一部錢的歷史：從數得出來的牛，到坐得上去的長凳，再到只能相信的承諾。"
+  },
+  "titles": {
+    "en": "From Cattle to Credit: The Hidden History in Financial English",
+    "zh": "從牛到信用：金融英文裡藏著的歷史"
+  },
+  "kdp": {
+    "title": "From Cattle to Credit",
+    "subtitle": "The Hidden History in Financial English: A Bilingual English–Chinese Etymology Lesson",
+    "keywords": [
+      "business english vocabulary",
+      "money words and their origins",
+      "esl vocabulary for chinese speakers",
+      "word origins for investors",
+      "金融英文 商業英文",
+      "英文詞源 字根字首",
+      "vocabulary builder for adults"
+    ],
+    "categories_suggested": [
+      "Foreign Language Study & Reference > English as a Second Language",
+      "Language Arts & Disciplines > Linguistics > Etymology",
+      "Business & Money > Economics > Money & Monetary Policy"
+    ]
+  },
+  "youtube": {
+    "title": "Your \"Fee\" Used to Be a Cow | 金融英文詞源：從牛到信用",
+    "thumbnail_text": "FEE = COW?",
+    "tags": [
+      "financial English",
+      "money words",
+      "etymology",
+      "word origins",
+      "business English",
+      "English vocabulary",
+      "learn English",
+      "mortgage meaning",
+      "credit etymology",
+      "salary salt myth",
+      "bankrupt origin",
+      "金融英文",
+      "英文詞源",
+      "商業英文",
+      "英文單字",
+      "投資英文"
+    ],
+    "chapters": [
+      { "time": "0:00", "label": "Your fee used to be a cow｜費用的祖先是牛" },
+      { "time": "0:20", "label": "Cattle and capital｜牛與資本" },
+      { "time": "1:08", "label": "Money from a temple, and from the sea｜神廟與海貝" },
+      { "time": "1:41", "label": "A bench and a broken bench｜長凳與破長凳" },
+      { "time": "2:04", "label": "Credit, debt and the dead pledge｜信用、債務、死亡抵押" },
+      { "time": "3:00", "label": "Finance means \"the end\"｜金融的意思是「結束」" },
+      { "time": "3:12", "label": "The salt myth｜鹽的迷思" },
+      { "time": "3:26", "label": "Recap and your question｜回顧與留言" }
+    ]
+  },
+  "social": {
+    "instagram_hashtags": ["#etymology", "#英文詞源", "#FinancialEnglish", "#金融英文", "#learnEnglish"],
+    "threads_tag": "#英文詞源"
+  },
+  "keywords": {
+    "en": ["financial English", "etymology", "money words", "fee", "capital", "credit", "mortgage", "salary myth"],
+    "zh": ["金融英文", "英文詞源", "商業英文", "信用", "資本", "房貸", "貝", "投資英文"]
+  },
+  "sources": [
+    "https://www.etymonline.com/word/fee",
+    "https://www.etymonline.com/word/capital",
+    "https://www.etymonline.com/word/cattle",
+    "https://www.etymonline.com/word/money",
+    "https://www.etymonline.com/word/bank",
+    "https://www.etymonline.com/word/bankrupt",
+    "https://www.etymonline.com/word/credit",
+    "https://www.etymonline.com/word/debt",
+    "https://www.etymonline.com/word/mortgage",
+    "https://www.etymonline.com/word/finance",
+    "https://www.etymonline.com/word/salary",
+    "https://www.merriam-webster.com/grammar/why-is-debt-spelled-like-that",
+    "https://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html",
+    "https://www.zdic.net/hant/%E8%B4%9D"
+  ]
+}

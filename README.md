@@ -31,7 +31,9 @@
     └── publisher-prep.agent.md
 scripts/check_package.py         ← 自動檢查（純 Python 標準函式庫）
 templates/metadata.schema.json   ← metadata.json 欄位規格
-output/metaphor-2026-11-22/      ← 第一次完整試跑的成品
+output/
+├── metaphor-2026-11-22/          ← 第 1 集：metaphor（單字型主題）
+└── financial-english-2026-11-22/ ← 第 2 集：金融英文（主題型主題）
 ```
 
 ## 怎麼用（層級 A：GitHub Copilot）
